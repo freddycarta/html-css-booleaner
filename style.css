@@ -18,4 +18,23 @@ body {
 .colorgrey {
     color: #D3D3D3;
 }
+.container {
+    position: absolute;
+    left:0px;
+    text-align: center;
+    color: white;
+  }
 
+  .Text{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+
+  .Text0{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
