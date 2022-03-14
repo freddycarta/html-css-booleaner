@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    text-align: left;
+}
+
+.header_pattern {
+    background-image: url("../html-css-booleaner/img/pattern.png");
+    height: 100%;
+    background-repeat: repeat;
+    background-color: blue;
+}
+
+#img_pattern {
+    width: 700px;
+    margin-top: 150px;
+}
